@@ -23,4 +23,15 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
+## Screenshots from app
+
+### Welcome screen with typing animation label
+![Screen Shot 2022-02-05 at 5 53 14 PM](https://user-images.githubusercontent.com/56804253/152661961-aeba0de2-30b7-4682-864b-d6c6130939f7.png)
+### Register new user process 
+![Screen Shot 2022-02-05 at 5 59 01 PM](https://user-images.githubusercontent.com/56804253/152661984-05de59d4-85c7-43c3-9a1d-a13d503ecb3e.png)
+### LogIn as existing user 
+![Screen Shot 2022-02-05 at 6 01 11 PM](https://user-images.githubusercontent.com/56804253/152662013-c3fcc17d-a427-4ddf-bc00-d290e43c37e3.png)
+### Chat Screen with LogOut button 
+![Screen Shot 2022-02-05 at 6 05 29 PM](https://user-images.githubusercontent.com/56804253/152662051-04059a4c-5c64-4977-b48a-8c0c0f653722.png)
+
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
