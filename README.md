@@ -1,6 +1,14 @@
 # Flash-Chat
 Firebase Cloud Firestore, TableViews and Cocoapod Dependencies
 
+## My Goal
+
+One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial IA’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database. It’s going to be epic, so buckle up.
+
+## What I created
+
+Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. I used a service called Firebase Firestore as a backend database to store and retrieve my messages from the cloud. 
+
 ## What I learned in this module
 
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
