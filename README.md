@@ -9,7 +9,7 @@ One of the most fundamental component of modern iOS apps is the Table View. Tabl
 
 Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. I used a service called Firebase Firestore as a backend database to store and retrieve my messages from the cloud. 
 
-## What I learned in this module
+## What I learned from this module
 
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
 * How to store data in the cloud using Firebase Firestore.
